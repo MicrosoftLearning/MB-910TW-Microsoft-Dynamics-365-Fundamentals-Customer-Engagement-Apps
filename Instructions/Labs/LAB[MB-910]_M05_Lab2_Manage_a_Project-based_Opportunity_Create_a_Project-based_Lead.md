@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 5.2： 管理專案型商機'
     module: '模組 5： 學習 Dynamics 365 Project Operations 的基礎知識'
