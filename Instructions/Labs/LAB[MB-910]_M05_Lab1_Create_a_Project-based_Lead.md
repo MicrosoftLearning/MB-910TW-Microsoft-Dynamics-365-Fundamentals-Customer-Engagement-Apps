@@ -1,10 +1,10 @@
----
+﻿---
 lab:
     title: '實驗 5.1： 建立專案型潛在客戶'
     module: '模組 5： 學習 Dynamics 365 Project Operations 的基礎知識'
 ---
 
-模組 5： 學習 Dynamics 365 Project Operations 基礎知識
+模組 5： 學習 Dynamics 365 Project Operations 的基礎知識
 ========================
 
 ## 練習實驗 5.1：建立專案型潛在客戶

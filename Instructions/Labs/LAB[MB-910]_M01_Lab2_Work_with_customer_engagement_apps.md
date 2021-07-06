@@ -1,7 +1,7 @@
----
+﻿---
 lab:
     title: '實驗 1.2： 使用 Customer Engagement 應用程式'
-    module: '模組 1： 瞭解 Dynamics 365 Marketing 的基礎知識'
+    module: '模組 1： 學習 Dynamics 365 Marketing 的基礎知識'
 ---
 
 模組 1： 學習 Dynamics 365 Marketing 的基礎知識

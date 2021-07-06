@@ -1,7 +1,7 @@
----
+﻿---
 lab:
     title: '實驗 4.3： Dynamics 365 Field Service 總整實驗'
-    module: '模組 4： 學習 Microsoft Dynamics 365 Field Service 的基礎知識'
+    module: '模組 4： 學習 Dynamics 365 Field Service 的基礎知識'
 ---
 
 模組 4： 學習 Dynamics 365 Field Service 的基礎知識
