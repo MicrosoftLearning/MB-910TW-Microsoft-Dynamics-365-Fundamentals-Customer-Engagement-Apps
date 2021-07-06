@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 1.3： 管理客戶和活動'
     module: '模組 1： 瞭解 Dynamics 365 Marketing 的基礎知識'
