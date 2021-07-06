@@ -1,4 +1,4 @@
-﻿---
+---
 示範：
     title: '示範： Customer Insights'
     module: '模組 1： 瞭解 Dynamics 365 Marketing 的基礎知識'
