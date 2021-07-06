@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 2.3： Dynamics 365 Sales 總整實驗'
     module: '模組 2： 學習 Dynamics 365 Sales 的基礎知識'
