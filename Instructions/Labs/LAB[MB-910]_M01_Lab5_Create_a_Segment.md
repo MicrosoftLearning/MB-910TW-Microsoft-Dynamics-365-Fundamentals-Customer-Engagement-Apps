@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 1.5： 在 Dynamics 365 Marketing 中建立區隔'
     module: '模組 1： 瞭解 Dynamics 365 Marketing 的基礎知識'
