@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '示範： 使用 Dynamics 365 Sales'
     module: '模組 2： 學習 Dynamics 365 Sales 的基礎知識'
