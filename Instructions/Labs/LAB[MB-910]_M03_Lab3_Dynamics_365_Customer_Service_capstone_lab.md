@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 3.3： Dynamics 365 Customer Service 的總整實驗'
     module: '模組 3： 瞭解 Dynamics 365 Customer Service 的基礎知識'
