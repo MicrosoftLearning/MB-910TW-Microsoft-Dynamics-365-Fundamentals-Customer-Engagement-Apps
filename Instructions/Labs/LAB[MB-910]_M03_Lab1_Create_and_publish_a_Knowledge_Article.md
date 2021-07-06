@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 3.1： 在 Dynamics 365 Customer Service 中建立和發佈知識文章'
     module: '模組 3： 瞭解 Dynamics 365 Customer Service 的基礎知識'
