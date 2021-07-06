@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 1.7： Dynamics 365 Marketing 總整實驗'
     module: '模組 1： 瞭解 Dynamics 365 Marketing 的基礎知識'
