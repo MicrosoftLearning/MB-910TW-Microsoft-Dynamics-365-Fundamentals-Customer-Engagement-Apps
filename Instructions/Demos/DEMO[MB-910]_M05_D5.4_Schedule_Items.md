@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '示範： 排程項目'
     module: '模組 5： 學習 Dynamics 365 Project Operations 的基礎知識'
