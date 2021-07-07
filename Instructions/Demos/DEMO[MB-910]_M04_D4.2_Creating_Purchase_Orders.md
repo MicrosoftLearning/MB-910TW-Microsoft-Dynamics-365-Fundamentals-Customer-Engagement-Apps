@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '示範：建立採購單'
     module: '模組 4：學習 Microsoft Dynamics 365 Field Service 的基礎知識'
