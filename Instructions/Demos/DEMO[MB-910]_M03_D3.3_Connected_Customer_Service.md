@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '示範： Connected Customer Service'
     module: '模組 3： 瞭解 Dynamics 365 Customer Service 的基礎知識'
