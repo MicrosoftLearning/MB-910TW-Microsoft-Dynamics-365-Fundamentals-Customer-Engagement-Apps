@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 2.2： 在 Dynamics 365 Sales 中建立和管理商機'
     module: '模組 2： 學習 Dynamics 365 Sales 的基礎知識'
