@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: '示範：使用 Dynamics 365 Field Service'
     module: '模組 4：學習 Microsoft Dynamics 365 Field Service 的基礎知識'

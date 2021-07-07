@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 1.4： 搜尋和篩選資料'
     module: '模組 1： 學習 Dynamics 365 Marketing 的基礎知識'
