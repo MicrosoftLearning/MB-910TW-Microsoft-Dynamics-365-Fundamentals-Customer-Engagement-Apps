@@ -1,7 +1,7 @@
 ﻿---
 lab:
     title: '實驗 1.4： 搜尋和篩選資料'
-    module: '模組 1： 學習 Dynamics 365 Marketing 的基礎知識
+    module: '模組 1： 學習 Dynamics 365 Marketing 的基礎知識'
 ---
 
 模組 1： 學習 Dynamics 365 Marketing 的基礎知識
@@ -51,7 +51,7 @@ lab:
 
 	- **截止日期：** 明天上午 8:30
 
-	**優先順序**： 高
+	- **優先順序**： 高
 
 14. 選取**儲存後關閉**按鈕。
 
