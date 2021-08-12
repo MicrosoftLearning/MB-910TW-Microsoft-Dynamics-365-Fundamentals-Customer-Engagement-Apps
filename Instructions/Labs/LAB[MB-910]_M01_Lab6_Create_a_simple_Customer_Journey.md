@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '實驗 1.6： 建立簡單的客戶旅程'
     module: '模組 1： 學習 Dynamics 365 Marketing 的基礎知識'
