@@ -1,4 +1,13 @@
-﻿# INF99X：範例課程
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps.zh-tw) on 21 January 2022. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps.zh-tw).
+
+# INF99X：範例課程
 
 - **[下載最新的學生習作和 AllFiles 內容](../../releases/latest)**
 - **您是 MCT 嗎？** - 請參閱我們的《[適用於 MCT 的 GitHub 使用者指南](https://microsoftlearning.github.io/MCT-User-Guide/)》
